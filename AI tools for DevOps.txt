@@ -1,0 +1,14 @@
+AI
+dataDoc - alerts, rollback
+------------------------
+
+Amazon Code guru
+to optimize performance
+identify bugs
+to increase code quality
+
+------------------------
+harness
+------------
+jenkinsX
+
