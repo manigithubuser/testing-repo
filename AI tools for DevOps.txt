@@ -6,7 +6,7 @@ Amazon Code guru
 to optimize performance
 identify bugs
 to increase code quality
-latest
+
 ------------------------
 harness
 ------------
